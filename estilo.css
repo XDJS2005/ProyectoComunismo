@@ -160,10 +160,10 @@ width: 100%;
 width: 100%;
 }
 }
-@media all  and (max-width:411px) {
+@media all  and (max-width:375px) and (max-height:812px) {
     nav{
         width: 100%;
-        font-size: 75%;
+        font-size: 65%;
     }
      .contenido-lateral,{
       width: 100%;
